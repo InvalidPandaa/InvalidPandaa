@@ -55,7 +55,7 @@ Most of my free time goes into small side projects where I just try things out, 
 ## 📫 Contact
 
 <p>
-  <a href="mailto:mail@invalidpanda.dev"><img src="https://img.shields.io/badge/mail@invalidpanda.dev-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mail@invalidpanda.dev"><img src="https://img.shields.io/badge/✉️_mail@invalidpanda.dev-EA4335?style=for-the-badge" alt="Email" /></a>
   <img src="https://img.shields.io/badge/@invalidpandaa-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @invalidpandaa" />
 </p>
 
